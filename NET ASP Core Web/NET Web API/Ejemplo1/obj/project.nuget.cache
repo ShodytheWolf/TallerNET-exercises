@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "y1yyZRm7sRE=",
+  "dgSpecHash": "+pA0OqnjhMU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\shodyWindows\\Documents\\GitHub\\NET ASP Core Web\\NET Web API\\Ejemplo1\\Ejemplo1.csproj",
+  "projectFilePath": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\Ejemplo1\\Ejemplo1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\shodyWindows\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\shodyWindows\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

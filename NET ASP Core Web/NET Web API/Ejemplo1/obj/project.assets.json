@@ -433,11 +433,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shodyWindows\\Documents\\GitHub\\NET ASP Core Web\\NET Web API\\Ejemplo1\\Ejemplo1.csproj",
+      "projectUniqueName": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\Ejemplo1\\Ejemplo1.csproj",
       "projectName": "Ejemplo1",
-      "projectPath": "C:\\Users\\shodyWindows\\Documents\\GitHub\\NET ASP Core Web\\NET Web API\\Ejemplo1\\Ejemplo1.csproj",
+      "projectPath": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\Ejemplo1\\Ejemplo1.csproj",
       "packagesPath": "C:\\Users\\shodyWindows\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shodyWindows\\Documents\\GitHub\\NET ASP Core Web\\NET Web API\\Ejemplo1\\obj\\",
+      "outputPath": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\Ejemplo1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\shodyWindows\\AppData\\Roaming\\NuGet\\NuGet.Config",

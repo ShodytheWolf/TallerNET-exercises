@@ -1,28 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\shodyWindows\\Documents\\GitHub\\NET ASP Core Web\\NET Web API\\",
+  "WorkspaceRootPath": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{437F1155-3968-43C3-97F5-DA409EB1276D}|Ejemplo1\\Ejemplo1.csproj|c:\\users\\shodywindows\\documents\\github\\net asp core web\\net web api\\ejemplo1\\controllers\\tareacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{437F1155-3968-43C3-97F5-DA409EB1276D}|Ejemplo1\\Ejemplo1.csproj|solutionrelative:ejemplo1\\controllers\\tareacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E46558EE-E204-4280-ACC1-5BC1C1F6015C}|PipeLineExercise\\PipeLineExercise.csproj|c:\\users\\shodywindows\\documents\\github\\tallernet-exercises\\net asp core web\\net web api\\pipelineexercise\\pipeline\\pipelineimpl\\colorchangerstep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E46558EE-E204-4280-ACC1-5BC1C1F6015C}|PipeLineExercise\\PipeLineExercise.csproj|solutionrelative:pipelineexercise\\pipeline\\pipelineimpl\\colorchangerstep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{437F1155-3968-43C3-97F5-DA409EB1276D}|Ejemplo1\\Ejemplo1.csproj|c:\\users\\shodywindows\\documents\\github\\net asp core web\\net web api\\ejemplo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{437F1155-3968-43C3-97F5-DA409EB1276D}|Ejemplo1\\Ejemplo1.csproj|solutionrelative:ejemplo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E46558EE-E204-4280-ACC1-5BC1C1F6015C}|PipeLineExercise\\PipeLineExercise.csproj|c:\\users\\shodywindows\\documents\\github\\tallernet-exercises\\net asp core web\\net web api\\pipelineexercise\\pipeline\\pipelineimpl\\imageloaderstep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E46558EE-E204-4280-ACC1-5BC1C1F6015C}|PipeLineExercise\\PipeLineExercise.csproj|solutionrelative:pipelineexercise\\pipeline\\pipelineimpl\\imageloaderstep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{437F1155-3968-43C3-97F5-DA409EB1276D}|Ejemplo1\\Ejemplo1.csproj|c:\\users\\shodywindows\\documents\\github\\net asp core web\\net web api\\ejemplo1\\models\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{437F1155-3968-43C3-97F5-DA409EB1276D}|Ejemplo1\\Ejemplo1.csproj|solutionrelative:ejemplo1\\models\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E46558EE-E204-4280-ACC1-5BC1C1F6015C}|PipeLineExercise\\PipeLineExercise.csproj|c:\\users\\shodywindows\\documents\\github\\tallernet-exercises\\net asp core web\\net web api\\pipelineexercise\\pipeline\\pipelineimpl\\imagesaverstep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E46558EE-E204-4280-ACC1-5BC1C1F6015C}|PipeLineExercise\\PipeLineExercise.csproj|solutionrelative:pipelineexercise\\pipeline\\pipelineimpl\\imagesaverstep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET\\01_1_webApiEjemplo\\01_1_webApiEjemplo\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E46558EE-E204-4280-ACC1-5BC1C1F6015C}|PipeLineExercise\\PipeLineExercise.csproj|c:\\users\\shodywindows\\documents\\github\\tallernet-exercises\\net asp core web\\net web api\\pipelineexercise\\pipeline\\pipelineimpl\\imagecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E46558EE-E204-4280-ACC1-5BC1C1F6015C}|PipeLineExercise\\PipeLineExercise.csproj|solutionrelative:pipelineexercise\\pipeline\\pipelineimpl\\imagecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET\\01_1_webApiEjemplo\\01_1_webApiEjemplo\\Controllers\\VehiculoController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{437F1155-3968-43C3-97F5-DA409EB1276D}|Ejemplo1\\Ejemplo1.csproj|c:\\users\\shodywindows\\documents\\github\\net asp core web\\net web api\\ejemplo1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{437F1155-3968-43C3-97F5-DA409EB1276D}|Ejemplo1\\Ejemplo1.csproj|solutionrelative:ejemplo1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{E46558EE-E204-4280-ACC1-5BC1C1F6015C}|PipeLineExercise\\PipeLineExercise.csproj|c:\\users\\shodywindows\\documents\\github\\tallernet-exercises\\net asp core web\\net web api\\pipelineexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E46558EE-E204-4280-ACC1-5BC1C1F6015C}|PipeLineExercise\\PipeLineExercise.csproj|solutionrelative:pipelineexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,84 +30,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "VehiculoController.cs",
-              "DocumentMoniker": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET\\01_1_webApiEjemplo\\01_1_webApiEjemplo\\Controllers\\VehiculoController.cs",
-              "RelativeDocumentMoniker": "..\\..\\TallerNET\\01_1_webApiEjemplo\\01_1_webApiEjemplo\\Controllers\\VehiculoController.cs",
-              "ToolTip": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET\\01_1_webApiEjemplo\\01_1_webApiEjemplo\\Controllers\\VehiculoController.cs",
-              "RelativeToolTip": "..\\..\\TallerNET\\01_1_webApiEjemplo\\01_1_webApiEjemplo\\Controllers\\VehiculoController.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABEAAAAuAAAA",
+              "DocumentIndex": 3,
+              "Title": "ImageContext.cs",
+              "DocumentMoniker": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\PipeLineExercise\\Pipeline\\PipelineImpl\\ImageContext.cs",
+              "RelativeDocumentMoniker": "PipeLineExercise\\Pipeline\\PipelineImpl\\ImageContext.cs",
+              "ToolTip": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\PipeLineExercise\\Pipeline\\PipelineImpl\\ImageContext.cs",
+              "RelativeToolTip": "PipeLineExercise\\Pipeline\\PipelineImpl\\ImageContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T19:36:07.18Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TareaController.cs",
-              "DocumentMoniker": "C:\\Users\\shodyWindows\\Documents\\GitHub\\NET ASP Core Web\\NET Web API\\Ejemplo1\\Controllers\\TareaController.cs",
-              "RelativeDocumentMoniker": "Ejemplo1\\Controllers\\TareaController.cs",
-              "ToolTip": "C:\\Users\\shodyWindows\\Documents\\GitHub\\NET ASP Core Web\\NET Web API\\Ejemplo1\\Controllers\\TareaController.cs",
-              "RelativeToolTip": "Ejemplo1\\Controllers\\TareaController.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T19:04:35.433Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Tarea.cs",
-              "DocumentMoniker": "C:\\Users\\shodyWindows\\Documents\\GitHub\\NET ASP Core Web\\NET Web API\\Ejemplo1\\Models\\Tarea.cs",
-              "RelativeDocumentMoniker": "Ejemplo1\\Models\\Tarea.cs",
-              "ToolTip": "C:\\Users\\shodyWindows\\Documents\\GitHub\\NET ASP Core Web\\NET Web API\\Ejemplo1\\Models\\Tarea.cs",
-              "RelativeToolTip": "Ejemplo1\\Models\\Tarea.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAqwB8AAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T18:22:58.577Z",
+              "WhenOpened": "2024-08-19T20:43:07.221Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\shodyWindows\\Documents\\GitHub\\NET ASP Core Web\\NET Web API\\Ejemplo1\\Program.cs",
-              "RelativeDocumentMoniker": "Ejemplo1\\Program.cs",
-              "ToolTip": "C:\\Users\\shodyWindows\\Documents\\GitHub\\NET ASP Core Web\\NET Web API\\Ejemplo1\\Program.cs",
-              "RelativeToolTip": "Ejemplo1\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Title": "ImageLoaderStep.cs",
+              "DocumentMoniker": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\PipeLineExercise\\Pipeline\\PipelineImpl\\ImageLoaderStep.cs",
+              "RelativeDocumentMoniker": "PipeLineExercise\\Pipeline\\PipelineImpl\\ImageLoaderStep.cs",
+              "ToolTip": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\PipeLineExercise\\Pipeline\\PipelineImpl\\ImageLoaderStep.cs",
+              "RelativeToolTip": "PipeLineExercise\\Pipeline\\PipelineImpl\\ImageLoaderStep.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAA8AAACkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T17:41:12.157Z",
+              "WhenOpened": "2024-08-19T19:04:19.918Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET\\01_1_webApiEjemplo\\01_1_webApiEjemplo\\Program.cs",
-              "RelativeDocumentMoniker": "..\\..\\TallerNET\\01_1_webApiEjemplo\\01_1_webApiEjemplo\\Program.cs",
-              "ToolTip": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET\\01_1_webApiEjemplo\\01_1_webApiEjemplo\\Program.cs",
-              "RelativeToolTip": "..\\..\\TallerNET\\01_1_webApiEjemplo\\01_1_webApiEjemplo\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "ImageSaverStep.cs",
+              "DocumentMoniker": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\PipeLineExercise\\Pipeline\\PipelineImpl\\ImageSaverStep.cs",
+              "RelativeDocumentMoniker": "PipeLineExercise\\Pipeline\\PipelineImpl\\ImageSaverStep.cs",
+              "ToolTip": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\PipeLineExercise\\Pipeline\\PipelineImpl\\ImageSaverStep.cs",
+              "RelativeToolTip": "PipeLineExercise\\Pipeline\\PipelineImpl\\ImageSaverStep.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T21:32:03.602Z",
+              "WhenOpened": "2024-08-19T20:06:24.088Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\shodyWindows\\Documents\\GitHub\\NET ASP Core Web\\NET Web API\\Ejemplo1\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Ejemplo1\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\shodyWindows\\Documents\\GitHub\\NET ASP Core Web\\NET Web API\\Ejemplo1\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Ejemplo1\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-09T18:13:49.445Z"
+              "DocumentIndex": 0,
+              "Title": "ColorChangerStep.cs",
+              "DocumentMoniker": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\PipeLineExercise\\Pipeline\\PipelineImpl\\ColorChangerStep.cs",
+              "RelativeDocumentMoniker": "PipeLineExercise\\Pipeline\\PipelineImpl\\ColorChangerStep.cs",
+              "ToolTip": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\PipeLineExercise\\Pipeline\\PipelineImpl\\ColorChangerStep.cs",
+              "RelativeToolTip": "PipeLineExercise\\Pipeline\\PipelineImpl\\ColorChangerStep.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T18:08:57.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\PipeLineExercise\\Program.cs",
+              "RelativeDocumentMoniker": "PipeLineExercise\\Program.cs",
+              "ToolTip": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\PipeLineExercise\\Program.cs",
+              "RelativeToolTip": "PipeLineExercise\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T14:52:39.81Z",
+              "EditorCaption": ""
             }
           ]
         }

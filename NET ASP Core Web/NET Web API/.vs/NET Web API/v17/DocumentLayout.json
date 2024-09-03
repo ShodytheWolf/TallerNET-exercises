@@ -3,24 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E46558EE-E204-4280-ACC1-5BC1C1F6015C}|PipeLineExercise\\PipeLineExercise.csproj|c:\\users\\shodywindows\\documents\\github\\tallernet-exercises\\net asp core web\\net web api\\pipelineexercise\\pipeline\\pipelineimpl\\colorchangerstep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E46558EE-E204-4280-ACC1-5BC1C1F6015C}|PipeLineExercise\\PipeLineExercise.csproj|solutionrelative:pipelineexercise\\pipeline\\pipelineimpl\\colorchangerstep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C180B2E-8635-4470-921B-71D0AEEF7C9A}|Ejercicio4\\RazorExercise.csproj|c:\\users\\shodywindows\\documents\\github\\tallernet-exercises\\net asp core web\\net web api\\ejercicio4\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C180B2E-8635-4470-921B-71D0AEEF7C9A}|Ejercicio4\\RazorExercise.csproj|solutionrelative:ejercicio4\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E46558EE-E204-4280-ACC1-5BC1C1F6015C}|PipeLineExercise\\PipeLineExercise.csproj|c:\\users\\shodywindows\\documents\\github\\tallernet-exercises\\net asp core web\\net web api\\pipelineexercise\\pipeline\\pipelineimpl\\imageloaderstep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E46558EE-E204-4280-ACC1-5BC1C1F6015C}|PipeLineExercise\\PipeLineExercise.csproj|solutionrelative:pipelineexercise\\pipeline\\pipelineimpl\\imageloaderstep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C180B2E-8635-4470-921B-71D0AEEF7C9A}|Ejercicio4\\RazorExercise.csproj|c:\\users\\shodywindows\\documents\\github\\tallernet-exercises\\net asp core web\\net web api\\ejercicio4\\pages\\book\\editbooks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C180B2E-8635-4470-921B-71D0AEEF7C9A}|Ejercicio4\\RazorExercise.csproj|solutionrelative:ejercicio4\\pages\\book\\editbooks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E46558EE-E204-4280-ACC1-5BC1C1F6015C}|PipeLineExercise\\PipeLineExercise.csproj|c:\\users\\shodywindows\\documents\\github\\tallernet-exercises\\net asp core web\\net web api\\pipelineexercise\\pipeline\\pipelineimpl\\imagesaverstep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E46558EE-E204-4280-ACC1-5BC1C1F6015C}|PipeLineExercise\\PipeLineExercise.csproj|solutionrelative:pipelineexercise\\pipeline\\pipelineimpl\\imagesaverstep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C180B2E-8635-4470-921B-71D0AEEF7C9A}|Ejercicio4\\RazorExercise.csproj|c:\\users\\shodywindows\\documents\\github\\tallernet-exercises\\net asp core web\\net web api\\ejercicio4\\pages\\book\\listbooks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C180B2E-8635-4470-921B-71D0AEEF7C9A}|Ejercicio4\\RazorExercise.csproj|solutionrelative:ejercicio4\\pages\\book\\listbooks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E46558EE-E204-4280-ACC1-5BC1C1F6015C}|PipeLineExercise\\PipeLineExercise.csproj|c:\\users\\shodywindows\\documents\\github\\tallernet-exercises\\net asp core web\\net web api\\pipelineexercise\\pipeline\\pipelineimpl\\imagecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E46558EE-E204-4280-ACC1-5BC1C1F6015C}|PipeLineExercise\\PipeLineExercise.csproj|solutionrelative:pipelineexercise\\pipeline\\pipelineimpl\\imagecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C180B2E-8635-4470-921B-71D0AEEF7C9A}|Ejercicio4\\RazorExercise.csproj|c:\\users\\shodywindows\\documents\\github\\tallernet-exercises\\net asp core web\\net web api\\ejercicio4\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C180B2E-8635-4470-921B-71D0AEEF7C9A}|Ejercicio4\\RazorExercise.csproj|solutionrelative:ejercicio4\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E46558EE-E204-4280-ACC1-5BC1C1F6015C}|PipeLineExercise\\PipeLineExercise.csproj|c:\\users\\shodywindows\\documents\\github\\tallernet-exercises\\net asp core web\\net web api\\pipelineexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E46558EE-E204-4280-ACC1-5BC1C1F6015C}|PipeLineExercise\\PipeLineExercise.csproj|solutionrelative:pipelineexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C180B2E-8635-4470-921B-71D0AEEF7C9A}|Ejercicio4\\RazorExercise.csproj|c:\\users\\shodywindows\\documents\\github\\tallernet-exercises\\net asp core web\\net web api\\ejercicio4\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C180B2E-8635-4470-921B-71D0AEEF7C9A}|Ejercicio4\\RazorExercise.csproj|solutionrelative:ejercicio4\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C180B2E-8635-4470-921B-71D0AEEF7C9A}|Ejercicio4\\RazorExercise.csproj|c:\\users\\shodywindows\\documents\\github\\tallernet-exercises\\net asp core web\\net web api\\ejercicio4\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C180B2E-8635-4470-921B-71D0AEEF7C9A}|Ejercicio4\\RazorExercise.csproj|solutionrelative:ejercicio4\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C180B2E-8635-4470-921B-71D0AEEF7C9A}|Ejercicio4\\RazorExercise.csproj|c:\\users\\shodywindows\\documents\\github\\tallernet-exercises\\net asp core web\\net web api\\ejercicio4\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C180B2E-8635-4470-921B-71D0AEEF7C9A}|Ejercicio4\\RazorExercise.csproj|solutionrelative:ejercicio4\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C180B2E-8635-4470-921B-71D0AEEF7C9A}|Ejercicio4\\RazorExercise.csproj|c:\\users\\shodywindows\\documents\\github\\tallernet-exercises\\net asp core web\\net web api\\ejercicio4\\pages\\book\\addbooks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C180B2E-8635-4470-921B-71D0AEEF7C9A}|Ejercicio4\\RazorExercise.csproj|solutionrelative:ejercicio4\\pages\\book\\addbooks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C180B2E-8635-4470-921B-71D0AEEF7C9A}|Ejercicio4\\RazorExercise.csproj|c:\\users\\shodywindows\\documents\\github\\tallernet-exercises\\net asp core web\\net web api\\ejercicio4\\pages\\book\\deletebooks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C180B2E-8635-4470-921B-71D0AEEF7C9A}|Ejercicio4\\RazorExercise.csproj|solutionrelative:ejercicio4\\pages\\book\\deletebooks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C180B2E-8635-4470-921B-71D0AEEF7C9A}|Ejercicio4\\RazorExercise.csproj|c:\\users\\shodywindows\\documents\\github\\tallernet-exercises\\net asp core web\\net web api\\ejercicio4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C180B2E-8635-4470-921B-71D0AEEF7C9A}|Ejercicio4\\RazorExercise.csproj|solutionrelative:ejercicio4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,72 +50,137 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ImageContext.cs",
-              "DocumentMoniker": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\PipeLineExercise\\Pipeline\\PipelineImpl\\ImageContext.cs",
-              "RelativeDocumentMoniker": "PipeLineExercise\\Pipeline\\PipelineImpl\\ImageContext.cs",
-              "ToolTip": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\PipeLineExercise\\Pipeline\\PipelineImpl\\ImageContext.cs",
-              "RelativeToolTip": "PipeLineExercise\\Pipeline\\PipelineImpl\\ImageContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
+              "DocumentIndex": 0,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\Ejercicio4\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Ejercicio4\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\Ejercicio4\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Ejercicio4\\Controllers\\BookController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowFwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T20:43:07.221Z",
+              "WhenOpened": "2024-08-30T07:55:47.045Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\Ejercicio4\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Ejercicio4\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\Ejercicio4\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "Ejercicio4\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T05:38:21.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddBooks.cshtml",
+              "DocumentMoniker": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\Ejercicio4\\Pages\\Book\\AddBooks.cshtml",
+              "RelativeDocumentMoniker": "Ejercicio4\\Pages\\Book\\AddBooks.cshtml",
+              "ToolTip": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\Ejercicio4\\Pages\\Book\\AddBooks.cshtml",
+              "RelativeToolTip": "Ejercicio4\\Pages\\Book\\AddBooks.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T21:13:32.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\Ejercicio4\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ejercicio4\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\Ejercicio4\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Ejercicio4\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T20:35:45.236Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ImageLoaderStep.cs",
-              "DocumentMoniker": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\PipeLineExercise\\Pipeline\\PipelineImpl\\ImageLoaderStep.cs",
-              "RelativeDocumentMoniker": "PipeLineExercise\\Pipeline\\PipelineImpl\\ImageLoaderStep.cs",
-              "ToolTip": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\PipeLineExercise\\Pipeline\\PipelineImpl\\ImageLoaderStep.cs",
-              "RelativeToolTip": "PipeLineExercise\\Pipeline\\PipelineImpl\\ImageLoaderStep.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAAA8AAACkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T19:04:19.918Z",
+              "Title": "EditBooks.cshtml",
+              "DocumentMoniker": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\Ejercicio4\\Pages\\Book\\EditBooks.cshtml",
+              "RelativeDocumentMoniker": "Ejercicio4\\Pages\\Book\\EditBooks.cshtml",
+              "ToolTip": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\Ejercicio4\\Pages\\Book\\EditBooks.cshtml",
+              "RelativeToolTip": "Ejercicio4\\Pages\\Book\\EditBooks.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T10:12:56.622Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ImageSaverStep.cs",
-              "DocumentMoniker": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\PipeLineExercise\\Pipeline\\PipelineImpl\\ImageSaverStep.cs",
-              "RelativeDocumentMoniker": "PipeLineExercise\\Pipeline\\PipelineImpl\\ImageSaverStep.cs",
-              "ToolTip": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\PipeLineExercise\\Pipeline\\PipelineImpl\\ImageSaverStep.cs",
-              "RelativeToolTip": "PipeLineExercise\\Pipeline\\PipelineImpl\\ImageSaverStep.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T20:06:24.088Z",
+              "DocumentIndex": 8,
+              "Title": "DeleteBooks.cshtml",
+              "DocumentMoniker": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\Ejercicio4\\Pages\\Book\\DeleteBooks.cshtml",
+              "RelativeDocumentMoniker": "Ejercicio4\\Pages\\Book\\DeleteBooks.cshtml",
+              "ToolTip": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\Ejercicio4\\Pages\\Book\\DeleteBooks.cshtml",
+              "RelativeToolTip": "Ejercicio4\\Pages\\Book\\DeleteBooks.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T08:00:36.503Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ColorChangerStep.cs",
-              "DocumentMoniker": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\PipeLineExercise\\Pipeline\\PipelineImpl\\ColorChangerStep.cs",
-              "RelativeDocumentMoniker": "PipeLineExercise\\Pipeline\\PipelineImpl\\ColorChangerStep.cs",
-              "ToolTip": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\PipeLineExercise\\Pipeline\\PipelineImpl\\ColorChangerStep.cs",
-              "RelativeToolTip": "PipeLineExercise\\Pipeline\\PipelineImpl\\ColorChangerStep.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAAAAAA",
+              "DocumentIndex": 5,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\Ejercicio4\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "Ejercicio4\\Repositories\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\Ejercicio4\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "Ejercicio4\\Repositories\\BookRepository.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwCMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T18:08:57.746Z",
+              "WhenOpened": "2024-08-30T09:15:39.025Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\PipeLineExercise\\Program.cs",
-              "RelativeDocumentMoniker": "PipeLineExercise\\Program.cs",
-              "ToolTip": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\PipeLineExercise\\Program.cs",
-              "RelativeToolTip": "PipeLineExercise\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAXAAAA",
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\Ejercicio4\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Ejercicio4\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\Ejercicio4\\Models\\Book.cs",
+              "RelativeToolTip": "Ejercicio4\\Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T14:52:39.81Z",
+              "WhenOpened": "2024-08-30T09:13:58.73Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListBooks.cshtml",
+              "DocumentMoniker": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\Ejercicio4\\Pages\\Book\\ListBooks.cshtml",
+              "RelativeDocumentMoniker": "Ejercicio4\\Pages\\Book\\ListBooks.cshtml",
+              "ToolTip": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\Ejercicio4\\Pages\\Book\\ListBooks.cshtml",
+              "RelativeToolTip": "Ejercicio4\\Pages\\Book\\ListBooks.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T08:00:39.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\Ejercicio4\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio4\\Program.cs",
+              "ToolTip": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\Ejercicio4\\Program.cs",
+              "RelativeToolTip": "Ejercicio4\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T07:39:07.943Z"
             }
           ]
         }

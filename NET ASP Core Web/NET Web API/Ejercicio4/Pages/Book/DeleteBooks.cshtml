@@ -1,0 +1,46 @@
+﻿@model RazorExercise.Models.Book
+
+@{
+    ViewData["Title"] = "DeleteBooks";
+}
+
+<h1>Borrar libro</h1>
+
+<h3>Estás seguro que quieres borrar este libro?</h3>
+<div>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            ISBN
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Isbn)
+        </dd>
+        <dt class = "col-sm-2">
+            Titulo
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Title)
+        </dd>
+        <dt class = "col-sm-2">
+            Autor
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Author)
+        </dd>
+        <dt class = "col-sm-2">
+            Fecha de publicación
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.PublicationDate)
+        </dd>
+    </dl>
+
+    <form asp-action="DeleteBook" asp-route-id="@Model.Isbn">
+
+   
+            <input type="submit" value="Borrar" class="btn btn-danger" /> 
+
+        <a asp-action="GetAllBooks">Volver a la lista</a>
+    </form>
+</div>

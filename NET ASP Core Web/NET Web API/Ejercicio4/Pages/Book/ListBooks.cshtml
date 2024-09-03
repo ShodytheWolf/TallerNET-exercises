@@ -1,0 +1,54 @@
+﻿@model IEnumerable<RazorExercise.Models.Book>
+@{
+    ViewData["Title"] = "ListBooks";
+    Layout = "_Layout";
+
+}
+
+<h1>Lista de libros</h1>
+
+<p>
+    <a asp-action="ViewAddBook">Añadir libro</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Isbn)
+            </th>
+            <th>
+                Titulo
+            </th>
+            <th>
+                Autor
+            </th>
+            <th>
+                Fecha publicación
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Isbn)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Author)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PublicationDate)
+            </td>
+            <td>
+
+                <a asp-controller="Book" asp-action="ViewDelete" asp-route-id="@item.Isbn"> Borrar </a> | 
+                <a asp-controller="Book" asp-action="ViewEdit" asp-route-id="@item.Isbn"> Editar </a>
+            </td>
+        </tr>
+        }
+    </tbody>
+</table>

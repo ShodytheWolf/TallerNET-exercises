@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PipeLineExercise")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+23a06e09f36d534597bd249bd596c6e213858d96")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d35cf9e25893f8c3c54e7f6cf6470e65c3eec1ae")]
 [assembly: System.Reflection.AssemblyProductAttribute("PipeLineExercise")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PipeLineExercise")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

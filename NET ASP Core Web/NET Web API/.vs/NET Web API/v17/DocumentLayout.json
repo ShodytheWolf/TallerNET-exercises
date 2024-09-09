@@ -3,44 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3C180B2E-8635-4470-921B-71D0AEEF7C9A}|Ejercicio4\\RazorExercise.csproj|c:\\users\\shodywindows\\documents\\github\\tallernet-exercises\\net asp core web\\net web api\\ejercicio4\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C180B2E-8635-4470-921B-71D0AEEF7C9A}|Ejercicio4\\RazorExercise.csproj|solutionrelative:ejercicio4\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{95FFF9FF-E153-4A71-9FAA-76AC06A546E0}|SignalRLoginExercise\\SignalRLoginExercise.csproj|c:\\users\\shodywindows\\documents\\github\\tallernet-exercises\\net asp core web\\net web api\\signalrloginexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95FFF9FF-E153-4A71-9FAA-76AC06A546E0}|SignalRLoginExercise\\SignalRLoginExercise.csproj|solutionrelative:signalrloginexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C180B2E-8635-4470-921B-71D0AEEF7C9A}|Ejercicio4\\RazorExercise.csproj|c:\\users\\shodywindows\\documents\\github\\tallernet-exercises\\net asp core web\\net web api\\ejercicio4\\pages\\book\\editbooks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3C180B2E-8635-4470-921B-71D0AEEF7C9A}|Ejercicio4\\RazorExercise.csproj|solutionrelative:ejercicio4\\pages\\book\\editbooks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{95FFF9FF-E153-4A71-9FAA-76AC06A546E0}|SignalRLoginExercise\\SignalRLoginExercise.csproj|c:\\users\\shodywindows\\documents\\github\\tallernet-exercises\\net asp core web\\net web api\\signalrloginexercise\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95FFF9FF-E153-4A71-9FAA-76AC06A546E0}|SignalRLoginExercise\\SignalRLoginExercise.csproj|solutionrelative:signalrloginexercise\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C180B2E-8635-4470-921B-71D0AEEF7C9A}|Ejercicio4\\RazorExercise.csproj|c:\\users\\shodywindows\\documents\\github\\tallernet-exercises\\net asp core web\\net web api\\ejercicio4\\pages\\book\\listbooks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3C180B2E-8635-4470-921B-71D0AEEF7C9A}|Ejercicio4\\RazorExercise.csproj|solutionrelative:ejercicio4\\pages\\book\\listbooks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{95FFF9FF-E153-4A71-9FAA-76AC06A546E0}|SignalRLoginExercise\\SignalRLoginExercise.csproj|c:\\users\\shodywindows\\documents\\github\\tallernet-exercises\\net asp core web\\net web api\\signalrloginexercise\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95FFF9FF-E153-4A71-9FAA-76AC06A546E0}|SignalRLoginExercise\\SignalRLoginExercise.csproj|solutionrelative:signalrloginexercise\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C180B2E-8635-4470-921B-71D0AEEF7C9A}|Ejercicio4\\RazorExercise.csproj|c:\\users\\shodywindows\\documents\\github\\tallernet-exercises\\net asp core web\\net web api\\ejercicio4\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3C180B2E-8635-4470-921B-71D0AEEF7C9A}|Ejercicio4\\RazorExercise.csproj|solutionrelative:ejercicio4\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{95FFF9FF-E153-4A71-9FAA-76AC06A546E0}|SignalRLoginExercise\\SignalRLoginExercise.csproj|c:\\users\\shodywindows\\documents\\github\\tallernet-exercises\\net asp core web\\net web api\\signalrloginexercise\\hubs\\userhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95FFF9FF-E153-4A71-9FAA-76AC06A546E0}|SignalRLoginExercise\\SignalRLoginExercise.csproj|solutionrelative:signalrloginexercise\\hubs\\userhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C180B2E-8635-4470-921B-71D0AEEF7C9A}|Ejercicio4\\RazorExercise.csproj|c:\\users\\shodywindows\\documents\\github\\tallernet-exercises\\net asp core web\\net web api\\ejercicio4\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C180B2E-8635-4470-921B-71D0AEEF7C9A}|Ejercicio4\\RazorExercise.csproj|solutionrelative:ejercicio4\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{95FFF9FF-E153-4A71-9FAA-76AC06A546E0}|SignalRLoginExercise\\SignalRLoginExercise.csproj|c:\\users\\shodywindows\\documents\\github\\tallernet-exercises\\net asp core web\\net web api\\signalrloginexercise\\pages\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95FFF9FF-E153-4A71-9FAA-76AC06A546E0}|SignalRLoginExercise\\SignalRLoginExercise.csproj|solutionrelative:signalrloginexercise\\pages\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C180B2E-8635-4470-921B-71D0AEEF7C9A}|Ejercicio4\\RazorExercise.csproj|c:\\users\\shodywindows\\documents\\github\\tallernet-exercises\\net asp core web\\net web api\\ejercicio4\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C180B2E-8635-4470-921B-71D0AEEF7C9A}|Ejercicio4\\RazorExercise.csproj|solutionrelative:ejercicio4\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C180B2E-8635-4470-921B-71D0AEEF7C9A}|Ejercicio4\\RazorExercise.csproj|c:\\users\\shodywindows\\documents\\github\\tallernet-exercises\\net asp core web\\net web api\\ejercicio4\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3C180B2E-8635-4470-921B-71D0AEEF7C9A}|Ejercicio4\\RazorExercise.csproj|solutionrelative:ejercicio4\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C180B2E-8635-4470-921B-71D0AEEF7C9A}|Ejercicio4\\RazorExercise.csproj|c:\\users\\shodywindows\\documents\\github\\tallernet-exercises\\net asp core web\\net web api\\ejercicio4\\pages\\book\\addbooks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3C180B2E-8635-4470-921B-71D0AEEF7C9A}|Ejercicio4\\RazorExercise.csproj|solutionrelative:ejercicio4\\pages\\book\\addbooks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C180B2E-8635-4470-921B-71D0AEEF7C9A}|Ejercicio4\\RazorExercise.csproj|c:\\users\\shodywindows\\documents\\github\\tallernet-exercises\\net asp core web\\net web api\\ejercicio4\\pages\\book\\deletebooks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3C180B2E-8635-4470-921B-71D0AEEF7C9A}|Ejercicio4\\RazorExercise.csproj|solutionrelative:ejercicio4\\pages\\book\\deletebooks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C180B2E-8635-4470-921B-71D0AEEF7C9A}|Ejercicio4\\RazorExercise.csproj|c:\\users\\shodywindows\\documents\\github\\tallernet-exercises\\net asp core web\\net web api\\ejercicio4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C180B2E-8635-4470-921B-71D0AEEF7C9A}|Ejercicio4\\RazorExercise.csproj|solutionrelative:ejercicio4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{95FFF9FF-E153-4A71-9FAA-76AC06A546E0}|SignalRLoginExercise\\SignalRLoginExercise.csproj|c:\\users\\shodywindows\\documents\\github\\tallernet-exercises\\net asp core web\\net web api\\signalrloginexercise\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95FFF9FF-E153-4A71-9FAA-76AC06A546E0}|SignalRLoginExercise\\SignalRLoginExercise.csproj|solutionrelative:signalrloginexercise\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,137 +34,85 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BookController.cs",
-              "DocumentMoniker": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\Ejercicio4\\Controllers\\BookController.cs",
-              "RelativeDocumentMoniker": "Ejercicio4\\Controllers\\BookController.cs",
-              "ToolTip": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\Ejercicio4\\Controllers\\BookController.cs",
-              "RelativeToolTip": "Ejercicio4\\Controllers\\BookController.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAowFwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T07:55:47.045Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\Ejercicio4\\Pages\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Ejercicio4\\Pages\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\Ejercicio4\\Pages\\_ViewImports.cshtml",
-              "RelativeToolTip": "Ejercicio4\\Pages\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-03T05:38:21.394Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AddBooks.cshtml",
-              "DocumentMoniker": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\Ejercicio4\\Pages\\Book\\AddBooks.cshtml",
-              "RelativeDocumentMoniker": "Ejercicio4\\Pages\\Book\\AddBooks.cshtml",
-              "ToolTip": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\Ejercicio4\\Pages\\Book\\AddBooks.cshtml",
-              "RelativeToolTip": "Ejercicio4\\Pages\\Book\\AddBooks.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAACEAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-30T21:13:32.247Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\Ejercicio4\\Pages\\Index.cshtml",
-              "RelativeDocumentMoniker": "Ejercicio4\\Pages\\Index.cshtml",
-              "ToolTip": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\Ejercicio4\\Pages\\Index.cshtml",
-              "RelativeToolTip": "Ejercicio4\\Pages\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-30T20:35:45.236Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EditBooks.cshtml",
-              "DocumentMoniker": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\Ejercicio4\\Pages\\Book\\EditBooks.cshtml",
-              "RelativeDocumentMoniker": "Ejercicio4\\Pages\\Book\\EditBooks.cshtml",
-              "ToolTip": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\Ejercicio4\\Pages\\Book\\EditBooks.cshtml",
-              "RelativeToolTip": "Ejercicio4\\Pages\\Book\\EditBooks.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAABYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-30T10:12:56.622Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DeleteBooks.cshtml",
-              "DocumentMoniker": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\Ejercicio4\\Pages\\Book\\DeleteBooks.cshtml",
-              "RelativeDocumentMoniker": "Ejercicio4\\Pages\\Book\\DeleteBooks.cshtml",
-              "ToolTip": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\Ejercicio4\\Pages\\Book\\DeleteBooks.cshtml",
-              "RelativeToolTip": "Ejercicio4\\Pages\\Book\\DeleteBooks.cshtml",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAACUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-30T08:00:36.503Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "BookRepository.cs",
-              "DocumentMoniker": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\Ejercicio4\\Repositories\\BookRepository.cs",
-              "RelativeDocumentMoniker": "Ejercicio4\\Repositories\\BookRepository.cs",
-              "ToolTip": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\Ejercicio4\\Repositories\\BookRepository.cs",
-              "RelativeToolTip": "Ejercicio4\\Repositories\\BookRepository.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAgwCMAAAAAAAAA",
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\SignalRLoginExercise\\Models\\User.cs",
+              "RelativeDocumentMoniker": "SignalRLoginExercise\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\SignalRLoginExercise\\Models\\User.cs",
+              "RelativeToolTip": "SignalRLoginExercise\\Models\\User.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwA8AAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T09:15:39.025Z",
+              "WhenOpened": "2024-09-09T10:52:16.039Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\Ejercicio4\\Models\\Book.cs",
-              "RelativeDocumentMoniker": "Ejercicio4\\Models\\Book.cs",
-              "ToolTip": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\Ejercicio4\\Models\\Book.cs",
-              "RelativeToolTip": "Ejercicio4\\Models\\Book.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAcAAAA",
+              "Title": "Welcome.cshtml",
+              "DocumentMoniker": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\SignalRLoginExercise\\Pages\\Welcome.cshtml",
+              "RelativeDocumentMoniker": "SignalRLoginExercise\\Pages\\Welcome.cshtml",
+              "ToolTip": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\SignalRLoginExercise\\Pages\\Welcome.cshtml",
+              "RelativeToolTip": "SignalRLoginExercise\\Pages\\Welcome.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAD0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T10:01:42.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\SignalRLoginExercise\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "SignalRLoginExercise\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\SignalRLoginExercise\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "SignalRLoginExercise\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAIwB4AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T09:13:58.73Z",
+              "WhenOpened": "2024-09-06T19:42:29.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserHub.cs",
+              "DocumentMoniker": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\SignalRLoginExercise\\Hubs\\UserHub.cs",
+              "RelativeDocumentMoniker": "SignalRLoginExercise\\Hubs\\UserHub.cs",
+              "ToolTip": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\SignalRLoginExercise\\Hubs\\UserHub.cs",
+              "RelativeToolTip": "SignalRLoginExercise\\Hubs\\UserHub.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCoAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T18:50:52.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\SignalRLoginExercise\\Program.cs",
+              "RelativeDocumentMoniker": "SignalRLoginExercise\\Program.cs",
+              "ToolTip": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\SignalRLoginExercise\\Program.cs",
+              "RelativeToolTip": "SignalRLoginExercise\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T18:44:58.704Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ListBooks.cshtml",
-              "DocumentMoniker": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\Ejercicio4\\Pages\\Book\\ListBooks.cshtml",
-              "RelativeDocumentMoniker": "Ejercicio4\\Pages\\Book\\ListBooks.cshtml",
-              "ToolTip": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\Ejercicio4\\Pages\\Book\\ListBooks.cshtml",
-              "RelativeToolTip": "Ejercicio4\\Pages\\Book\\ListBooks.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAhAAAA",
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\SignalRLoginExercise\\Pages\\Login.cshtml",
+              "RelativeDocumentMoniker": "SignalRLoginExercise\\Pages\\Login.cshtml",
+              "ToolTip": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\SignalRLoginExercise\\Pages\\Login.cshtml",
+              "RelativeToolTip": "SignalRLoginExercise\\Pages\\Login.cshtml",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAAAKEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-30T08:00:39.907Z",
+              "WhenOpened": "2024-09-04T18:06:30.042Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\Ejercicio4\\Program.cs",
-              "RelativeDocumentMoniker": "Ejercicio4\\Program.cs",
-              "ToolTip": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\Ejercicio4\\Program.cs",
-              "RelativeToolTip": "Ejercicio4\\Program.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAACMAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T07:39:07.943Z"
             }
           ]
         }

@@ -1,0 +1,68 @@
+﻿@page "/Welcome"
+@model SignalRLoginExercise.Pages.WelcomeModel
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome Page</title>
+    <style>
+        body {
+            font-family: "Comic Sans MS", "Comic Sans", cursive;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background: linear-gradient(135deg, #00ff00, #00ffff);
+            overflow: hidden;
+            position: relative;
+        }
+
+            body::before {
+                content: "el disenio grafiko es mi pacion";
+                position: absolute;
+                top: 20px;
+                left: 50%;
+                transform: translateX(-50%);
+                font-size: 24px;
+                color: rgba(255, 255, 255, 0.8);
+                text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+                z-index: -1;
+            }
+
+        .welcome-container {
+            background-color: white;
+            padding: 2rem;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            width: 300px;
+            text-align: center;
+        }
+
+        h2 {
+            color: #333;
+            margin: 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="welcome-container">
+        <h2>Welcome!</h2>
+        <h3 id="email" name="email"> </h3>
+    </div>
+</body>
+
+<script>
+    let userEmail = sessionStorage.getItem('userEmail');
+    console.log(userEmail);
+
+    let emailElement = document.getElementById('email');
+    emailElement.innerText = userEmail;
+</script>
+
+</html>

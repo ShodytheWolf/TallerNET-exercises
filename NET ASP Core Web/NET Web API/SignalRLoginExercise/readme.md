@@ -15,6 +15,7 @@ Se crea el proyecto ASP NET Core con Razor Pages tal y como pide la consigna:
 
 Con el siguiente estructura:
 ![](_attachments/Pasted%20image%2020240909091701.png)
+
  pese a la cantidad de archivos, realmente la mayoría de la lógica ocurre en 3 lugares, Login.cshtml, Program.cs & UserHub.
 
 ### Login.cshtml

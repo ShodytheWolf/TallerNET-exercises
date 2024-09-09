@@ -26,6 +26,7 @@ Con esta, se establece la conexión al Hub:
 ![](_attachments/Pasted%20image%2020240909094953.png)
 
 Y una vez confirmado su conexión, se ingresan los datos y se controlan por parte del cliente, tras pasar este control, invocamos a una función (la única) dentro del Hub para avisarle que nos hemos loggeado:
+
 ![](_attachments/Pasted%20image%2020240909095114.png)
 
 

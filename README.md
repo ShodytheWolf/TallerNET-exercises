@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/dd21a880-d2a7-44c7-9d61-d7542779bb30)# Introducción
 Aquí expondré los trabajos finalizados de .NET.
 *Cada uno* cuenta con un ReadMe.md diferente.
 

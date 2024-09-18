@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6CF31E19-C2AC-46D4-B8C5-E6413A360FF4}|BlazorLogin\\BlazorLogin\\BlazorLogin.csproj|c:\\users\\shodywindows\\documents\\github\\tallernet-exercises\\net asp core web\\net web api\\blazorlogin\\blazorlogin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CF31E19-C2AC-46D4-B8C5-E6413A360FF4}|BlazorLogin\\BlazorLogin\\BlazorLogin.csproj|solutionrelative:blazorlogin\\blazorlogin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF31E19-C2AC-46D4-B8C5-E6413A360FF4}|BlazorLogin\\BlazorLogin\\BlazorLogin.csproj|c:\\users\\shodywindows\\documents\\github\\tallernet-exercises\\net asp core web\\net web api\\blazorlogin\\blazorlogin\\hubs\\userhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CF31E19-C2AC-46D4-B8C5-E6413A360FF4}|BlazorLogin\\BlazorLogin\\BlazorLogin.csproj|solutionrelative:blazorlogin\\blazorlogin\\hubs\\userhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AFEBEF3-2601-4BB7-98B3-04CCD1D98582}|BlazorLogin\\BlazorLogin.Client\\BlazorLogin.Client.csproj|c:\\users\\shodywindows\\documents\\github\\tallernet-exercises\\net asp core web\\net web api\\blazorlogin\\blazorlogin.client\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6AFEBEF3-2601-4BB7-98B3-04CCD1D98582}|BlazorLogin\\BlazorLogin.Client\\BlazorLogin.Client.csproj|solutionrelative:blazorlogin\\blazorlogin.client\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF31E19-C2AC-46D4-B8C5-E6413A360FF4}|BlazorLogin\\BlazorLogin\\BlazorLogin.csproj|c:\\users\\shodywindows\\documents\\github\\tallernet-exercises\\net asp core web\\net web api\\blazorlogin\\blazorlogin\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CF31E19-C2AC-46D4-B8C5-E6413A360FF4}|BlazorLogin\\BlazorLogin\\BlazorLogin.csproj|solutionrelative:blazorlogin\\blazorlogin\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AFEBEF3-2601-4BB7-98B3-04CCD1D98582}|BlazorLogin\\BlazorLogin.Client\\BlazorLogin.Client.csproj|c:\\users\\shodywindows\\documents\\github\\tallernet-exercises\\net asp core web\\net web api\\blazorlogin\\blazorlogin.client\\pages\\welcome.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6AFEBEF3-2601-4BB7-98B3-04CCD1D98582}|BlazorLogin\\BlazorLogin.Client\\BlazorLogin.Client.csproj|solutionrelative:blazorlogin\\blazorlogin.client\\pages\\welcome.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF31E19-C2AC-46D4-B8C5-E6413A360FF4}|BlazorLogin\\BlazorLogin\\BlazorLogin.csproj|c:\\users\\shodywindows\\documents\\github\\tallernet-exercises\\net asp core web\\net web api\\blazorlogin\\blazorlogin\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CF31E19-C2AC-46D4-B8C5-E6413A360FF4}|BlazorLogin\\BlazorLogin\\BlazorLogin.csproj|solutionrelative:blazorlogin\\blazorlogin\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{95FFF9FF-E153-4A71-9FAA-76AC06A546E0}|SignalRLoginExercise\\SignalRLoginExercise.csproj|c:\\users\\shodywindows\\documents\\github\\tallernet-exercises\\net asp core web\\net web api\\signalrloginexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95FFF9FF-E153-4A71-9FAA-76AC06A546E0}|SignalRLoginExercise\\SignalRLoginExercise.csproj|solutionrelative:signalrloginexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95FFF9FF-E153-4A71-9FAA-76AC06A546E0}|SignalRLoginExercise\\SignalRLoginExercise.csproj|c:\\users\\shodywindows\\documents\\github\\tallernet-exercises\\net asp core web\\net web api\\signalrloginexercise\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95FFF9FF-E153-4A71-9FAA-76AC06A546E0}|SignalRLoginExercise\\SignalRLoginExercise.csproj|solutionrelative:signalrloginexercise\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95FFF9FF-E153-4A71-9FAA-76AC06A546E0}|SignalRLoginExercise\\SignalRLoginExercise.csproj|c:\\users\\shodywindows\\documents\\github\\tallernet-exercises\\net asp core web\\net web api\\signalrloginexercise\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{95FFF9FF-E153-4A71-9FAA-76AC06A546E0}|SignalRLoginExercise\\SignalRLoginExercise.csproj|solutionrelative:signalrloginexercise\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95FFF9FF-E153-4A71-9FAA-76AC06A546E0}|SignalRLoginExercise\\SignalRLoginExercise.csproj|c:\\users\\shodywindows\\documents\\github\\tallernet-exercises\\net asp core web\\net web api\\signalrloginexercise\\hubs\\userhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95FFF9FF-E153-4A71-9FAA-76AC06A546E0}|SignalRLoginExercise\\SignalRLoginExercise.csproj|solutionrelative:signalrloginexercise\\hubs\\userhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95FFF9FF-E153-4A71-9FAA-76AC06A546E0}|SignalRLoginExercise\\SignalRLoginExercise.csproj|c:\\users\\shodywindows\\documents\\github\\tallernet-exercises\\net asp core web\\net web api\\signalrloginexercise\\pages\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{95FFF9FF-E153-4A71-9FAA-76AC06A546E0}|SignalRLoginExercise\\SignalRLoginExercise.csproj|solutionrelative:signalrloginexercise\\pages\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95FFF9FF-E153-4A71-9FAA-76AC06A546E0}|SignalRLoginExercise\\SignalRLoginExercise.csproj|c:\\users\\shodywindows\\documents\\github\\tallernet-exercises\\net asp core web\\net web api\\signalrloginexercise\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95FFF9FF-E153-4A71-9FAA-76AC06A546E0}|SignalRLoginExercise\\SignalRLoginExercise.csproj|solutionrelative:signalrloginexercise\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,84 +38,98 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\SignalRLoginExercise\\Models\\User.cs",
-              "RelativeDocumentMoniker": "SignalRLoginExercise\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\SignalRLoginExercise\\Models\\User.cs",
-              "RelativeToolTip": "SignalRLoginExercise\\Models\\User.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAxwA8AAAAVAAAA",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\BlazorLogin\\BlazorLogin\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorLogin\\BlazorLogin\\Program.cs",
+              "ToolTip": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\BlazorLogin\\BlazorLogin\\Program.cs",
+              "RelativeToolTip": "BlazorLogin\\BlazorLogin\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAC4AAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T10:52:16.039Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Welcome.cshtml",
-              "DocumentMoniker": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\SignalRLoginExercise\\Pages\\Welcome.cshtml",
-              "RelativeDocumentMoniker": "SignalRLoginExercise\\Pages\\Welcome.cshtml",
-              "ToolTip": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\SignalRLoginExercise\\Pages\\Welcome.cshtml",
-              "RelativeToolTip": "SignalRLoginExercise\\Pages\\Welcome.cshtml",
-              "ViewState": "AQIAADMAAAAAAAAAAAAAAD0AAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-09T10:01:42.523Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\SignalRLoginExercise\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "SignalRLoginExercise\\Repositories\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\SignalRLoginExercise\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "SignalRLoginExercise\\Repositories\\UserRepository.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAIwB4AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T19:42:29.417Z",
+              "WhenOpened": "2024-09-13T14:02:12.253Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "UserHub.cs",
-              "DocumentMoniker": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\SignalRLoginExercise\\Hubs\\UserHub.cs",
-              "RelativeDocumentMoniker": "SignalRLoginExercise\\Hubs\\UserHub.cs",
-              "ToolTip": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\SignalRLoginExercise\\Hubs\\UserHub.cs",
-              "RelativeToolTip": "SignalRLoginExercise\\Hubs\\UserHub.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCoAAABVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T18:50:52.21Z",
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\BlazorLogin\\BlazorLogin\\Components\\App.razor",
+              "RelativeDocumentMoniker": "BlazorLogin\\BlazorLogin\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\BlazorLogin\\BlazorLogin\\Components\\App.razor",
+              "RelativeToolTip": "BlazorLogin\\BlazorLogin\\Components\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T18:21:01.838Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\SignalRLoginExercise\\Program.cs",
               "RelativeDocumentMoniker": "SignalRLoginExercise\\Program.cs",
               "ToolTip": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\SignalRLoginExercise\\Program.cs",
               "RelativeToolTip": "SignalRLoginExercise\\Program.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T18:44:58.704Z",
+              "WhenOpened": "2024-09-18T14:40:56.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\BlazorLogin\\BlazorLogin\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "BlazorLogin\\BlazorLogin\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\BlazorLogin\\BlazorLogin\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "BlazorLogin\\BlazorLogin\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T14:39:42.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserHub.cs",
+              "DocumentMoniker": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\BlazorLogin\\BlazorLogin\\Hubs\\UserHub.cs",
+              "RelativeDocumentMoniker": "BlazorLogin\\BlazorLogin\\Hubs\\UserHub.cs",
+              "ToolTip": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\BlazorLogin\\BlazorLogin\\Hubs\\UserHub.cs",
+              "RelativeToolTip": "BlazorLogin\\BlazorLogin\\Hubs\\UserHub.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAswB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T14:05:32.833Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\SignalRLoginExercise\\Pages\\Login.cshtml",
-              "RelativeDocumentMoniker": "SignalRLoginExercise\\Pages\\Login.cshtml",
-              "ToolTip": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\SignalRLoginExercise\\Pages\\Login.cshtml",
-              "RelativeToolTip": "SignalRLoginExercise\\Pages\\Login.cshtml",
-              "ViewState": "AQIAAGYAAAAAAAAAAAAAAKEAAAAAAAAA",
+              "Title": "Login.razor",
+              "DocumentMoniker": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\BlazorLogin\\BlazorLogin.Client\\Pages\\Login.razor",
+              "RelativeDocumentMoniker": "BlazorLogin\\BlazorLogin.Client\\Pages\\Login.razor",
+              "ToolTip": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\BlazorLogin\\BlazorLogin.Client\\Pages\\Login.razor",
+              "RelativeToolTip": "BlazorLogin\\BlazorLogin.Client\\Pages\\Login.razor",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAAADsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-04T18:06:30.042Z",
+              "WhenOpened": "2024-09-18T13:39:48.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Welcome.razor",
+              "DocumentMoniker": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\BlazorLogin\\BlazorLogin.Client\\Pages\\Welcome.razor",
+              "RelativeDocumentMoniker": "BlazorLogin\\BlazorLogin.Client\\Pages\\Welcome.razor",
+              "ToolTip": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\BlazorLogin\\BlazorLogin.Client\\Pages\\Welcome.razor",
+              "RelativeToolTip": "BlazorLogin\\BlazorLogin.Client\\Pages\\Welcome.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T17:19:32.709Z",
               "EditorCaption": ""
             }
           ]

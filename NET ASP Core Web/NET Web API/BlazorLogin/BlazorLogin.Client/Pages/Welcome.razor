@@ -1,0 +1,14 @@
+﻿@page "/welcome/{name}"
+@rendermode InteractiveWebAssembly
+
+    <RadzenStack Orientation="Orientation.Vertical" AlignItems="AlignItems.Center" JustifyContent="JustifyContent.Center" Wrap="FlexWrap.Wrap" Gap="1rem" class="rz-p-sm-12">
+        
+    <h3>Bienvenido! @Name </h3>
+</RadzenStack>
+
+
+@code {
+    //así le indicamos al código que le estamos pasando un parametro por la URI
+    [Parameter]
+    public string Name { get; set; }
+}

@@ -11,6 +11,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RazorExercise", "Ejercicio4
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SignalRLoginExercise", "SignalRLoginExercise\SignalRLoginExercise.csproj", "{95FFF9FF-E153-4A71-9FAA-76AC06A546E0}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorLogin", "BlazorLogin\BlazorLogin\BlazorLogin.csproj", "{6CF31E19-C2AC-46D4-B8C5-E6413A360FF4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorLogin.Client", "BlazorLogin\BlazorLogin.Client\BlazorLogin.Client.csproj", "{6AFEBEF3-2601-4BB7-98B3-04CCD1D98582}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{95FFF9FF-E153-4A71-9FAA-76AC06A546E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95FFF9FF-E153-4A71-9FAA-76AC06A546E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95FFF9FF-E153-4A71-9FAA-76AC06A546E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CF31E19-C2AC-46D4-B8C5-E6413A360FF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CF31E19-C2AC-46D4-B8C5-E6413A360FF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CF31E19-C2AC-46D4-B8C5-E6413A360FF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CF31E19-C2AC-46D4-B8C5-E6413A360FF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AFEBEF3-2601-4BB7-98B3-04CCD1D98582}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AFEBEF3-2601-4BB7-98B3-04CCD1D98582}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AFEBEF3-2601-4BB7-98B3-04CCD1D98582}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AFEBEF3-2601-4BB7-98B3-04CCD1D98582}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

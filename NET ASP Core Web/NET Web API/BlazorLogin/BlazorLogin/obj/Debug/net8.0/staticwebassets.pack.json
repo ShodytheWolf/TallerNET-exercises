@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\BlazorLogin\\BlazorLogin\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorLogin.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BlazorLogin.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\BlazorLogin\\BlazorLogin\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\BlazorLogin\\BlazorLogin\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\BlazorLogin\\BlazorLogin\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\shodyWindows\\Documents\\GitHub\\TallerNET-exercises\\NET ASP Core Web\\NET Web API\\BlazorLogin\\BlazorLogin\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazorLogin.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BlazorLogin.props",
+      "PackagePath": "build\\BlazorLogin.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorLogin.props",
+      "PackagePath": "buildMultiTargeting\\BlazorLogin.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlazorLogin.props",
+      "PackagePath": "buildTransitive\\BlazorLogin.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

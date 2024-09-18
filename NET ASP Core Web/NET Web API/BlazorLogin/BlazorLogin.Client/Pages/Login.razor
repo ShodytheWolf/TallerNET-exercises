@@ -1,0 +1,137 @@
+﻿@page "/login";
+@using Microsoft.AspNetCore.SignalR.Client;
+<!--MUY IMPORTANTE: HAY que declarar el tipo de renderizado de la página
+    aunque ya se heredé de App.razor, de otra manera mucha lógica de Blazor
+    se rehusa a funcionar correctamente.
+-->
+@rendermode InteractiveWebAssembly
+@inject NavigationManager NavigationManager
+
+
+<div class="rz-p-0 rz-p-md-12">
+
+    <RadzenStack Orientation="Orientation.Vertical" AlignItems="AlignItems.Center" JustifyContent="JustifyContent.Center" Wrap="FlexWrap.Wrap" Gap="1rem" class="rz-p-sm-12">
+        <h1>Login</h1>
+        <RadzenFormField Text="Account" Variant="Variant.Outlined">
+            <Start>
+                <RadzenIcon Icon="account_circle" />
+            </Start>
+            <ChildContent>
+                <RadzenTextBox @bind-Value=@model.Email />
+            </ChildContent>
+            <End>
+                <RadzenIcon Icon="add_circle" IconStyle="IconStyle.Secondary" />
+            </End>
+        </RadzenFormField>
+        <RadzenFormField Text="Password" Variant="Variant.Outlined">
+            <ChildContent>
+                <RadzenTextBox @bind-Value=@model.Password Visible="@(!password)" />
+                <RadzenPassword @bind-Value=@model.Password Visible="@password" />
+            </ChildContent>
+            <End>
+                <RadzenButton Icon="@(password ? "visibility" : "visibility_off")" Click="TogglePassword" Variant="Variant.Text" Size="ButtonSize.Small" />
+            </End>
+
+        </RadzenFormField>
+
+        <RadzenButton Variant="Variant.Flat" Click=@(args => OnClick("Primary button")) @bind-Disabled="buttonDisabled" Text="Login" ButtonStyle="ButtonStyle.Primary" />
+       
+        <RadzenAlert @bind-Visible="correctAlertVisible">
+            Se envió la notificación del servidor, porfavor autentiquesé para continuar.
+        </RadzenAlert>
+
+        <RadzenAlert @bind-Visible="wrongAlertVisible" AlertStyle="AlertStyle.Danger">
+            Creedenciales incorrectas.
+        </RadzenAlert>
+
+    </RadzenStack>
+</div>
+
+<!--para más documentación, leer aquí: https://blazor.radzen.com/form-field?theme=material3-->
+@code {
+
+    HubConnection connection;
+
+    //sobreescribimos la función que dictamina lo que se hace nada más arranque el ciclo de vida del componente
+    protected override async Task OnInitializedAsync()
+    {
+        //nos conectamos al hub pasandole la dirección en donde está hosteado el mismo
+        connection = new HubConnectionBuilder().WithUrl("https://localhost:7777/loginhub").Build();
+
+        connection.On< string>("AuthenticationComplete", (string userId) =>
+        {
+            //redireccionamos al usuario 
+            NavigationManager.NavigateTo("/welcome/" + @model.Email);
+
+        });
+
+        await connection.StartAsync();
+    }
+
+    //definimos el modelo que vamos a usar para guardar la info de la página
+    class Model{
+        public string Email { get; set; }
+        public string Password { get; set; }
+    }
+    //Lo instanciamos
+    Model model = new Model();
+
+   
+
+    //Aquí rescribimos el código del evento OnClick() que llamamos cuando clickamos el botón
+    public virtual async Task OnClick(string args)
+    {
+        Console.WriteLine("presioné el botón");
+        Console.WriteLine(@model.Email);
+        Console.WriteLine(@model.Password);
+
+        //Controlamos que no nos tiré excepción el servidor
+        try
+        {
+            await connection.InvokeAsync("LogUser", @model.Email, model.Password);
+
+            SwapAlertVisibility(true);
+            disableButton();
+
+        }catch (Exception e)// caso que si avisamos al usuario con un alert
+        {
+            Console.WriteLine("caí en el Catch");
+            SwapAlertVisibility(false);
+        }
+
+    }
+
+    //Lógica del Alert
+    bool correctAlertVisible = false;
+    bool wrongAlertVisible = false;
+
+
+    void SwapAlertVisibility(bool correct)
+    {
+        if (correct){
+            correctAlertVisible = !correctAlertVisible;
+        }
+        else{
+            wrongAlertVisible = !wrongAlertVisible;
+        }
+
+    }
+
+    //Lógica del botón
+    bool buttonDisabled;
+
+    void disableButton()
+    {
+        buttonDisabled = !buttonDisabled;
+    }
+
+
+    //lógica del botón de mostrar contraseña
+    bool password = true;
+
+    //escondemos o mostramos la contraseña
+    void TogglePassword()
+    {
+        password = !password;
+    }
+}

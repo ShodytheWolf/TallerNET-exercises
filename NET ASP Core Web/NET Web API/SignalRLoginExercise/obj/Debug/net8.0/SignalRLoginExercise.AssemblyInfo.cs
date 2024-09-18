@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SignalRLoginExercise")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d35cf9e25893f8c3c54e7f6cf6470e65c3eec1ae")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dea3d2f7e4aa6075b8da9501de050cad4078d28d")]
 [assembly: System.Reflection.AssemblyProductAttribute("SignalRLoginExercise")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SignalRLoginExercise")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

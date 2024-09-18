@@ -1,4 +1,4 @@
-# Introducción
+![image](https://github.com/user-attachments/assets/dd21a880-d2a7-44c7-9d61-d7542779bb30)# Introducción
 Aquí expondré los trabajos finalizados de .NET.
 *Cada uno* cuenta con un ReadMe.md diferente.
 
@@ -10,3 +10,5 @@ Aquí expondré los trabajos finalizados de .NET.
 [Ejercicio 3](https://github.com/ShodytheWolf/TallerNET-exercises/blob/main/NET%20ASP%20Core%20Web/NET%20Web%20API/Ejercicio4)
 
 [Ejercicio 4](https://github.com/ShodytheWolf/TallerNET-exercises/blob/main/NET%20ASP%20Core%20Web/NET%20Web%20API/SignalRLoginExercise/readme.md)
+
+[Ejercicio 5](https://github.com/ShodytheWolf/TallerNET-exercises/tree/main/NET%20ASP%20Core%20Web/NET%20Web%20API/BlazorLogin)
